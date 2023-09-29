@@ -23,5 +23,3 @@ Initialize npm and use the npm command 'run dev' to start a local server
 npm install
 npm run dev 
 ```
-
-THIS PROJECT IS A WORK IN PROGRESS
